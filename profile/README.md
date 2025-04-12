@@ -11,7 +11,7 @@ Welcome to my project! 🚀
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/senseixhub)
 [![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-![Tech Company Presentation](https://github.com/SenseiiX/SenseiiX/blob/main/fusionx.png?raw=true)
+![Tech Company Presentation](https://raw.githubusercontent.com/Project-FusionX/.github/main/FusionX.png?raw=true)
 
 ---
 ## 📌 **Features**
