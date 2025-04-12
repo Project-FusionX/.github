@@ -1,9 +1,5 @@
 # FusionX Kernel
 
-Welcome to my project! 🚀
-
- It's designed to offer enhanced performance, stability. Currently, I'm making custom kernels for **POCO F4** .
-
 ---
 
 [![Kernel Version](https://img.shields.io/badge/Kernel-4.19-blue.svg)]
@@ -14,16 +10,9 @@ Welcome to my project! 🚀
 ![Tech Company Presentation](https://raw.githubusercontent.com/Project-FusionX/.github/main/FusionX.png?raw=true)
 
 ---
-## 📌 **Features**
+##  **About FusionX**
 
-✨ **Performance Enhancements**  
-- Optimized CPU governors and I/O schedulers for smoother performance.
-- Improved memory management for faster app launches.
-
-🔋 **Battery Optimization**  
-- Advanced power-saving tweaks for longer battery life.
-- Wakelock blockers to reduce unnecessary battery drain.
-
+FusionX is a fork of [N0kernel](https://github.com/EmanuelCN/kernel_xiaomi_sm8250)
 
 ---
 
@@ -38,6 +27,3 @@ If you have any questions, issues, or suggestions, feel free to reach out:
 
 
 
-###
-
-**Feel free to explore, fork, and contribute to the project! Let's build something great together.**
